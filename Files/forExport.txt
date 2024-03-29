@@ -1,0 +1,2 @@
+Sears,50
+Chicago,100
